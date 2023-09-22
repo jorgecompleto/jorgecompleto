@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jorge
 - 👀 I’m interested in Data Science & Analytics
-- 🌱 I’m currently learning Python
 - 📫 How to reach me https://www.linkedin.com/in/jorgecompleto/
 
 <!---
